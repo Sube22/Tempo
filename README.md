@@ -26,6 +26,15 @@
 
 ## <p align="center"> Feel free to try it on the [support server](https://discord.gg/UNtsYrjt). </p>
 
+## 📷 Media
+<details>
+  <summary>toggle</summary>
+
+[![Watch the video](https://github.com/user-attachments/assets/cee961bd-6c87-44e9-9a23-e65fbb94ae3c)](https://github.com/user-attachments/assets/04635bed-01ad-4d6b-ac5f-c146040ca454)
+<img width="452" alt="faq_invite" src="https://github.com/user-attachments/assets/7659fb9b-1ed2-41fa-8560-e13d02a546e2">
+<img width="449" alt="faq" src="https://github.com/user-attachments/assets/b606f19e-3ef9-45a4-9279-31e1c1ed6296">
+</details>
+
 ## 🌟 Made with
 - [Discord.js](https://github.com/discordjs/discord.js)
 - [Typescript](https://github.com/microsoft/TypeScript)

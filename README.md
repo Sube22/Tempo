@@ -4,7 +4,6 @@
 
 
 # <p align="center">Tempo</p>
-  
 <p align="center">The next-gen of temporary Discord channel manager.</p>
 
 ### <p align="center">  Want to create a space for all games in your Discord Guild? </p>
@@ -25,7 +24,7 @@
 | deactivate    | 🛇    | Clear the bot |
 
 ## <p align="center"> Feel free to try it on the [support server](https://discord.gg/UNtsYrjt). </p>
-
+### <p align="center"> ![healthchecks.io](https://healthchecks.io/badge/131c231f-655f-4006-ad8b-23c690dd31a0/wUY5bjjj-2.svg) OR You can check our [uptime](https://sube.betteruptime.com/)</p>
 ## 📷 Media
 <details>
   <summary>toggle</summary>

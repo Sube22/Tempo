@@ -26,8 +26,11 @@
 ## <p align="center"> Feel free to try it on the [support server](https://discord.gg/UNtsYrjt). </p>
 ### <p align="center"> ![healthchecks.io](https://healthchecks.io/badge/131c231f-655f-4006-ad8b-23c690dd31a0/wUY5bjjj-2.svg) OR You can check our [uptime](https://sube.betteruptime.com/)</p>
 ## 📷 Media
+#### All-in-one image description
+![sum](https://github.com/user-attachments/assets/251ca87c-5279-4685-bfa5-64fd27c17b3d)
+
 <details>
-  <summary>toggle</summary>
+  <summary>others</summary>
 
 [![Watch the video](https://github.com/user-attachments/assets/cee961bd-6c87-44e9-9a23-e65fbb94ae3c)](https://github.com/user-attachments/assets/04635bed-01ad-4d6b-ac5f-c146040ca454)
 <img width="452" alt="faq_invite" src="https://github.com/user-attachments/assets/7659fb9b-1ed2-41fa-8560-e13d02a546e2">
